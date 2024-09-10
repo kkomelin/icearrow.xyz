@@ -1,0 +1,11 @@
+{
+  "name": "icearrow.xyz",
+  "version": "0.0.0",
+  "description": "To maintain redirect to Walrus Sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
